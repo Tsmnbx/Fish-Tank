@@ -1,7 +1,7 @@
 # Fish-Tank
 A A Simulation of a Fish Tank in Java for CSC207 at the University of Toronto
 
-Run the Program from  ⁨Fish-Tank⁩/⁨a2⁩/a2⁩/a2⁩/⁨src⁩/main⁩/⁨java⁩/⁨fishtank⁩
+Run the Program from  ⁨Fish-Tank⁩/⁨a2⁩/a2⁩/a2⁩/⁨src⁩/main⁩/⁨java⁩/⁨fishtank⁩.java
 
 Assignment two focuses on fixing the code of the fish tank. This assignment is worth 7.5% of your final grade, broken down as follows:
 1.5% of your final grade (20% of the assignment mark) will be awarded for having no spelling mistakes or warnings. See the "running inspections" section. Note that intellij has "quick format" tools, so you do not have to manually fix white space.
