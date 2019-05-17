@@ -1,6 +1,8 @@
 # Fish-Tank
 A A Simulation of a Fish Tank in Java for CSC207 at the University of Toronto
+
 Run the Program from  ⁨Fish-Tank⁩/⁨a2⁩/a2⁩/a2⁩/⁨src⁩/main⁩/⁨java⁩/⁨fishtank⁩
+
 Assignment two focuses on fixing the code of the fish tank. This assignment is worth 7.5% of your final grade, broken down as follows:
 1.5% of your final grade (20% of the assignment mark) will be awarded for having no spelling mistakes or warnings. See the "running inspections" section. Note that intellij has "quick format" tools, so you do not have to manually fix white space.
 3% of your final grade (40% of the assignment mark) will be for implementing the requested features and fixing the existing code 3% of your final grade (40% of the assignment mark) will be for writing tests for all of the expected behaviors in any public method in the (Bubble, Fish, FollowingFish, HungryFish, Seaweed) classes. You will be evaluated by having those public methods replaced by buggy implementations and seeing if you have a unit test which catches the behavior (from the list below) in the expected test class.
